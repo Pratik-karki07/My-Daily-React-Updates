@@ -1,0 +1,28 @@
+.card{
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.232);
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+  max-width: 250px;
+  background-color: antiquewhite;
+}
+
+.image{
+  max-width: 70%;
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+.title{
+  margin: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(106, 36, 15);
+}
+
+.text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(106, 36, 15, 0.728);
+}
+
