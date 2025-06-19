@@ -1,0 +1,11 @@
+.butto{
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px ;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
