@@ -1,0 +1,23 @@
+.welcome{
+  font-size: 2em;
+  background-color: rgb(126, 209, 2);
+  max-width: 250px;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: solid;
+}
+
+.login{
+    font-size: 2em;
+  background-color: rgb(204, 16, 16);
+  max-width: 450px;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: solid;
+}
