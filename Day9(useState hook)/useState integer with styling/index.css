@@ -1,0 +1,44 @@
+.all{
+  text-align: center;
+  margin: 10px ;
+
+}
+
+.num{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  
+}
+
+.upward{
+  background-color: rgb(21, 211, 21);
+  border: none;
+  margin-right: 20px;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px ;
+}
+
+.downward{
+  background-color: rgb(229, 47, 47);
+  border: none;
+  margin-right: 20px;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px ;
+}
+
+.reset{
+  background-color: rgb(37, 108, 213);
+  border: none;
+  margin-right: 20px;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px ;
+}
