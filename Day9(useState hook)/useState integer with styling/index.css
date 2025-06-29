@@ -1,8 +1,11 @@
 .all{
   text-align: center;
   margin: 10px ;
-
-}
+  border: 1px solid black;
+  padding-bottom: 30px;
+  max-width: 500px;
+  
+  }
 
 .num{
   margin-bottom: 40px;
